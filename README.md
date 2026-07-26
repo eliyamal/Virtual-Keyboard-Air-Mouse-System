@@ -15,6 +15,24 @@ This application uses your webcam to track both of your hands in real-time, assi
 
 ## Installation 🛠️
 
+to create a virtual environment-
+1.
+```bash
+python -m venv venv
+```
+2.
+```bash
+Set-ExecutionPolicy Unrestricted -Scope Process
+```
+3.
+```bash
+Set-ExecutionPolicy Unrestricted -Scope Process
+```
+4.
+```bash
+.\venv\Scripts\Activate
+```
+
 1. Activate your virtual environment: 
 ```bash
 source venv/bin/activate
