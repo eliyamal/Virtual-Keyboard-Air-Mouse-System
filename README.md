@@ -27,10 +27,6 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 ```
 3.
 ```bash
-Set-ExecutionPolicy Unrestricted -Scope Process
-```
-4.
-```bash
 .\venv\Scripts\Activate
 ```
 
