@@ -16,6 +16,7 @@ This application uses your webcam to track both of your hands in real-time, assi
 ## Installation 🛠️
 
 to create a virtual environment-
+
 1.
 ```bash
 python -m venv venv
